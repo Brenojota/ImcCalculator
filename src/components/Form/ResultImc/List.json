@@ -1,0 +1,33 @@
+[
+    {
+       " valorMin" : 0,
+        "valorMax" : 18.49,
+        "classificacao": "Magreza"
+    },
+    {
+       " valorMin" : 18.50,
+        "valorMax" : 24.99,
+        "classificacao": "Normal"
+    },
+    {
+       " valorMin" : 25,
+        "valorMax" : 29.99,
+        "classificacao": "Sobrepeso"
+    },
+    {
+       " valorMin" : 30,
+        "valorMax" : 34.99,
+        "classificacao": "Obesidade grau I"
+    },
+    {
+       " valorMin" : 35,
+        "valorMax" : 39.99,
+        "classificacao": "Obesidade grau II"
+    },
+    {
+       " valorMin" : 40,
+        "valorMax" : 100,
+        "classificacao": "Obesidade grau III"
+    }
+    
+]
